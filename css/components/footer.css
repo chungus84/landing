@@ -1,0 +1,20 @@
+.footer {
+  background-color: rgb(37, 36, 36);
+  text-align: center;
+  padding: 50px;
+
+}
+.links {
+  text-align: center;
+}
+
+.links a {
+  color: #1EDD88;
+  font-size: 34px;
+  padding-right: 10px;
+
+}
+
+.footer p {
+  color: grey;
+}
